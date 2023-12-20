@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bg-carousel/static/css/main.a313308a.css",
+    "main.js": "/bg-carousel/static/js/main.fa055e1e.js",
+    "static/js/787.3971dda8.chunk.js": "/bg-carousel/static/js/787.3971dda8.chunk.js",
+    "static/media/Shivaji01.ttf": "/bg-carousel/static/media/Shivaji01.58c50cd0b18652d268a8.ttf",
+    "index.html": "/bg-carousel/index.html",
+    "main.a313308a.css.map": "/bg-carousel/static/css/main.a313308a.css.map",
+    "main.fa055e1e.js.map": "/bg-carousel/static/js/main.fa055e1e.js.map",
+    "787.3971dda8.chunk.js.map": "/bg-carousel/static/js/787.3971dda8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a313308a.css",
+    "static/js/main.fa055e1e.js"
+  ]
+}
